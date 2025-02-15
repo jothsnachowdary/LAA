@@ -1,0 +1,11 @@
+pillow
+fastapi
+requests
+faker
+uvicorn
+python-dotenv
+datetime
+python-dateutil
+scipy
+httpx
+openai
