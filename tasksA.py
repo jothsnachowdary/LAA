@@ -2,6 +2,7 @@ import sqlite3
 import subprocess
 from dateutil.parser import parse
 from datetime import datetime
+from fastapi import HTTPException
 import json
 from pathlib import Path
 import os
